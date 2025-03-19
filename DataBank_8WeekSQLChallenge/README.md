@@ -5,17 +5,13 @@ This project is part of the **DataBank 8-Week SQL Challenge**, where SQL queries
 
 ---
 
-## 🔹 SQL Code  
+## 🔹 SQL Code
 - 📜 [SQL Queries](databank_queries.sql)
 
----
+## 🔹 Project Report
+- 📕 [Project Report - PDF](MIS_443_Project_Report_Nguyen_Thanh_Giang_2132300593.pdf)
 
-## 🔹 Project Report  
-- 📕 [Project Report - PDF](MIS_443_Project_Report_Nguyen_Thanh_Giang_2132300593.pdf)  
-
----
-
-## 🔹 Presentation Slides  
+## 🔹 Presentation Slides
 - 📽️ [Project Presentation - PDF](MIS_443_Project_Present_Nguyen_Thanh_Giang_2132300593.pdf)
 
 ---
