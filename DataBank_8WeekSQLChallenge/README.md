@@ -4,7 +4,6 @@
 This project is part of the **DataBank 8-Week SQL Challenge**, where SQL queries were used to analyze banking transactions, revenue, and customer insights.
 
 ---
-
 ## 🔹 SQL Code
 - 📜 [SQL Queries](databank_queries.sql)
 
