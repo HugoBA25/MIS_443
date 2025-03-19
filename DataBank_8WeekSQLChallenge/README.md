@@ -11,7 +11,7 @@ This project is part of the **DataBank 8-Week SQL Challenge**, where SQL queries
 - 📕 [Project Report - PDF](https://github.com/HugoBA25/MIS_443/blob/main/DataBank_8WeekSQLChallenge/MIS_443_Project_Present_Nguyen%20Thanh%20Giang_2132300593.pdf)
 
 ## 🔹 Presentation Slides
-- 📽️ [Project Presentation - PDF](MIS_443_Project_Present_Nguyen_Thanh_Giang_2132300593.pdf)
+- 📽️ [Project Presentation - PDF](https://github.com/HugoBA25/MIS_443/blob/main/DataBank_8WeekSQLChallenge/MIS_443_Project_Report_Nguyen%20Thanh%20Giang_2132300593.pdf)
 
 ---
 
