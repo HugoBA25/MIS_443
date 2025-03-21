@@ -24,12 +24,5 @@ This project is part of the **DataBank 8-Week SQL Challenge**, where SQL queries
 
 ## 🚀 Technologies Used  
 - **SQL** (PostgreSQL, MySQL, or SQLite)  
-- **Data Visualization** (if applicable)  
 - **GitHub for Version Control**  
 
----
-
-## 📌 How to Use  
-1️⃣ Clone the repository:  
-   ```bash
-   git clone <repo-url>
