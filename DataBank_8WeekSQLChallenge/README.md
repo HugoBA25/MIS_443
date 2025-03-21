@@ -23,6 +23,6 @@ This project is part of the **DataBank 8-Week SQL Challenge**, where SQL queries
 ---
 
 ## 🚀 Technologies Used  
-- **SQL** PgAdmin4)
+- **SQL** (PgAdmin4)
 - **GitHub for Version Control**
 
