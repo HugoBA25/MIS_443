@@ -5,7 +5,7 @@ This repository contains the weekly exercises for **MIS 443**. Each assignment c
 ## Assignment List
 
 1. **Assignment 1: Analyzing HR Data for Business Insights**
-   - File: [Assignment 1 Analyzing HR Data for Business Insights.docx](./Assignment%201%20Analyzing%20HR%20Data%20for%20Business%20Insights.docx)
+   - File: [Assignment 1 Analyzing HR Data for Business Insights.docx](https://github.com/HugoBA25/MIS_443/blob/main/Weekly%20exercises%20MIS%20443/Assignment%201%20Analyzing%20HR%20Data%20for%20Business%20Insights.docx)
    
 2. **Assignment 2:**
    - File: [Assignment 2 - Nguyen Thanh Giang - 2132300593.rar](./Assignment%202%20-%20Nguyen%20Thanh%20Giang%20-%202132300593.rar)
